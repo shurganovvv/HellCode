@@ -1,0 +1,15 @@
+C:\GB\Examples\Examples001-HellConsole\bin\Debug\net6.0\Examples001-HellConsole.exe
+C:\GB\Examples\Examples001-HellConsole\bin\Debug\net6.0\Examples001-HellConsole.deps.json
+C:\GB\Examples\Examples001-HellConsole\bin\Debug\net6.0\Examples001-HellConsole.runtimeconfig.json
+C:\GB\Examples\Examples001-HellConsole\bin\Debug\net6.0\Examples001-HellConsole.dll
+C:\GB\Examples\Examples001-HellConsole\bin\Debug\net6.0\Examples001-HellConsole.pdb
+C:\GB\Examples\Examples001-HellConsole\obj\Debug\net6.0\Examples001-HellConsole.csproj.AssemblyReference.cache
+C:\GB\Examples\Examples001-HellConsole\obj\Debug\net6.0\Examples001-HellConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Examples\Examples001-HellConsole\obj\Debug\net6.0\Examples001-HellConsole.AssemblyInfoInputs.cache
+C:\GB\Examples\Examples001-HellConsole\obj\Debug\net6.0\Examples001-HellConsole.AssemblyInfo.cs
+C:\GB\Examples\Examples001-HellConsole\obj\Debug\net6.0\Examples001-HellConsole.csproj.CoreCompileInputs.cache
+C:\GB\Examples\Examples001-HellConsole\obj\Debug\net6.0\Examples001-HellConsole.dll
+C:\GB\Examples\Examples001-HellConsole\obj\Debug\net6.0\refint\Examples001-HellConsole.dll
+C:\GB\Examples\Examples001-HellConsole\obj\Debug\net6.0\Examples001-HellConsole.pdb
+C:\GB\Examples\Examples001-HellConsole\obj\Debug\net6.0\Examples001-HellConsole.genruntimeconfig.cache
+C:\GB\Examples\Examples001-HellConsole\obj\Debug\net6.0\ref\Examples001-HellConsole.dll
